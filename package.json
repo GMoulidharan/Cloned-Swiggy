@@ -1,0 +1,32 @@
+{
+  "name": "cloned-swiggy",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMoulidharan/Cloned-Swiggy.git"
+  },
+  "keywords": [
+    "react",
+    "Namaste",
+    "react"
+  ],
+  "author": "Moulidharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMoulidharan/Cloned-Swiggy/issues"
+  },
+  "homepage": "https://github.com/GMoulidharan/Cloned-Swiggy#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
